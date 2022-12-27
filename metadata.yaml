@@ -1,0 +1,32 @@
+_repo: Gas-and-flame-in-modern-warfare_69562
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Thayer, W. G.
+    gutenberg_agent_id: '55319'
+    url: http://www.gutenberg.org/2009/agents/55319
+creator:
+  author:
+    agent_name: Auld, S. J. M.
+    gutenberg_agent_id: '55318'
+    url: http://www.gutenberg.org/2009/agents/55318
+description: ''
+gutenberg_issued: '2022-12-17'
+identifiers:
+  gutenberg: '69562'
+language: en
+pgterms:marc904: https://archive.org/details/gasflameinmodern00aulduoft
+pgterms:marc905: 20201124051618auld
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: deaurider, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: George H. Doran Company,1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gas and flame in modern warfare
+url: http://www.gutenberg.org/ebooks/69562
