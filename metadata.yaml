@@ -5,12 +5,17 @@ contributor:
     agent_name: Thayer, W. G.
     gutenberg_agent_id: '55319'
     url: http://www.gutenberg.org/2009/agents/55319
+covers:
+- cover_type: archival
+  image_path: 69562-h/images/cover.jpg
 creator:
   author:
     agent_name: Auld, S. J. M.
     gutenberg_agent_id: '55318'
     url: http://www.gutenberg.org/2009/agents/55318
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69562#Gas-and-flame-in-modern-warfare
 gutenberg_issued: '2022-12-17'
 identifiers:
   gutenberg: '69562'
